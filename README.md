@@ -57,3 +57,9 @@ For further details, refer to the code and dataset provided in the repository.
 
 ### Acknowledgments
 We acknowledge the contribution of public health data sources that made this analysis possible.
+
+If you're interested in collaborating or learning more about this project, feel free to reach out!
+
+## Contact
+## Email: andrewbintang@gmail.com
+## LinkedIn: Andrew Bintang Pratama
